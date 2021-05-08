@@ -15,7 +15,7 @@
 
   h1, h2, h3, h4, h5, h6, p, pre {
     font-family: Hafestran;
-    font-size: 58px;
+    font-size: 28px;
     text-align: right;
 
     color: white;
@@ -36,3 +36,4 @@
 ### placeholder
 
 this is a placeholder for me to test the layout.
+THIS IS A PLACEHOLDER FOR ME TO TEST THE LAYOUT.
