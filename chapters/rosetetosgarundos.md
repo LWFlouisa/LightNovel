@@ -32,6 +32,8 @@
   }
 </style>
 
+<img src="https://lwflouisa.github.io/LightNovel/images/laairportdetokyo.png" height="800px" width="550px">
+
 ## ROS ETETOS GARUNDOS -- la airport de tokyo
 
 ROS ETETOS GARUNDOS, enlarged head syndrome. this was what the doctors diagnosed, when she had her cranium expanded, with biologically inert metallic plates holding her head together. every now and then she still gets head aches, and the powders that she receives as part of airline maid training only does so much for her.
