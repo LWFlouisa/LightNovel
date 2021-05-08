@@ -16,7 +16,6 @@
   h1, h2, h3, h4, h5, h6, p, pre {
     font-family: Hafestran;
     font-size: 28px;
-    text-align: center;
 
     color: white;
   }
