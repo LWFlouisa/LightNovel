@@ -1,3 +1,37 @@
+<style>
+  body {
+    background-color: black;
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  @font-face {
+    font-family: Hafestran;
+    src: url("https://lwflouisa.github.io/HafestranFont/Font/HafestranFont-Regular.otf");
+  }
+
+  h1, h2, h3, h4, h5, h6, p, pre {
+    font-family: courier;
+    font-size: 12px;
+
+    color: lime;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
+
+  a {
+    font-family: Hafestran;
+    font-size: 28px;
+
+    color: blue;
+  }
+</style>
+
 ## The Blood Otaku
 
 She just arrived home from school to read some of her Manga, which ranged from Original English Language Manga, Original French Language Manga, although to ones directly made and licensed from Japan. From ongoing titles, to flashes in the pan; overnight successes, and those who disappear during the night. Super stardom for the lucky few, and obscurity for the rest. But she had left this world behind when beginning to expand her reading to other comics in other countries, specifically from France. But she found that she was missing one volume from one specific series. And couldn’t recall whether she had in fact purchased in online, or never bought it at all.
