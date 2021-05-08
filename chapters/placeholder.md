@@ -34,6 +34,4 @@
 </style>
 
 ### placeholder
-
-this is a placeholder for me to test the layout.
 THIS IS A PLACEHOLDER FOR ME TO TEST THE LAYOUT.
