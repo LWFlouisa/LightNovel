@@ -32,7 +32,7 @@
   }
 </style>
 
-<img src="https://lwflouisa.github.io/LightNovel/images/laairportdetokyo.jpeg" height="800px" width="550px">
+<img src="https://lwflouisa.github.io/LightNovel/images/laairportdetokyo.jpeg" height="550px" width="800px">
 
 ## ROS ETETOS GARUNDOS -- la airport de tokyo
 
