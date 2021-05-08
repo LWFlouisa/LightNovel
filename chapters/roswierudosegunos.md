@@ -32,7 +32,7 @@
   }
 </style>
 
-<img src="https://lwflouisa.github.io/LightNovel/images/redsun.png" height="550px" width="800px">
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/b33Ij05lHm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### the widow guns
 the red sun hangs over the midnight sky in the city.
