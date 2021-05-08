@@ -35,6 +35,4 @@
 
 ### placeholder
 
-<pre>
 ROS FIYOS PIERU EROME
-</pre>
