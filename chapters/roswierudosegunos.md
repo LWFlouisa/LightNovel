@@ -32,7 +32,7 @@
   }
 </style>
 
-![image](https://lwflouisa.github.io/LightNovel/images/redsun.png)
+<img src="https://lwflouisa.github.io/LightNovel/images/redsun.png" height="550px" width="800px">
 
 ### the widow guns
 the red sun hangs over the midnight sky in the city.
