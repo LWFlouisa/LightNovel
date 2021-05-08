@@ -34,9 +34,4 @@
 </style>
 
 ### placeholder
-
-MIO ESIHATE SI ENERU,<br />
-EYE SI ENERU.<br />
-YONA BEHANSI INI<br />
-le eaux YONA ESIHATE MIONIGI.<br />
-le chatte manger.<br />
+MIO ESIHATE SI ENERU, EYE SI ENERU. YONA BEHANSI INI le eaux YONA ESIHATE MIONIGI. le chatte manger.
