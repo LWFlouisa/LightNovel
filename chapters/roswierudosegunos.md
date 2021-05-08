@@ -32,7 +32,7 @@
   }
 </style>
 
-### ROS WIERUDOS EGUNOS
+### ROS WIERUDOS EGUNOS: the widow guns
 the red sun hangs over the midnight sky in the city.
 
 the city was mostly empty and the only people that were around mainly hung around the train station. the train station was populated by passengers from the next city over. the snack bar was in disarray, without anyone being in attendence to clean up the place. it would normally by mostly clean, tended by at least one employee who would offer at least candy bar from the glass shelf.
