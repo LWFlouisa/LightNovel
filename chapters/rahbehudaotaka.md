@@ -34,6 +34,8 @@
 
 ## The Blood Otaku
 
+![image](https://github.com/LWFlouisa/LightNovel/blob/main/images/bloodotaku.png?raw=true)
+
 She just arrived home from school to read some of her Manga, which ranged from Original English Language Manga, Original French Language Manga, although to ones directly made and licensed from Japan. From ongoing titles, to flashes in the pan; overnight successes, and those who disappear during the night. Super stardom for the lucky few, and obscurity for the rest. But she had left this world behind when beginning to expand her reading to other comics in other countries, specifically from France. But she found that she was missing one volume from one specific series. And couldn’t recall whether she had in fact purchased in online, or never bought it at all.
 
 At first she thought she heard the sound of her older sister, sitting in the rest room, reading one of her books. But then remembered that herself and her sister had been grown up for years, and they very rarely talk to each other anymore except for the Holidays. She lounged on the couch, wearing her Birkenstock Boston clogs, and would fantasize about the characters that she would read, bleeding from out of their necks. They called the “Blood Otaku”, because she would play with herself when she would see a cute girl in one of her Mangas, getting her head chopped off with a guillotine or ax.
